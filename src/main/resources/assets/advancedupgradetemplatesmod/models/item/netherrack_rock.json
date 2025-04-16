@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "Layer0": "advancedupgradetemplatesmod:item/netherrack_rock"
+  }
+}

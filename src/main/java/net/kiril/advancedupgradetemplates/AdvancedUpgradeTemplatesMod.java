@@ -2,6 +2,7 @@ package net.kiril.advancedupgradetemplates;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.kiril.advancedupgradetemplates.items.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +12,6 @@ public class AdvancedUpgradeTemplatesMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 }
