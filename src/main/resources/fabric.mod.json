@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "advancedupgradetemplatesmod",
+	"version": "${version}",
+	"name": "AdvancedUpgradeTemplatesMod",
+	"description": "Make it a bit more difficult to get advanced netherite.",
+	"authors": [
+		"Kiril"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/advancedupgradetemplatesmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kiril.advancedupgradetemplates.AdvancedUpgradeTemplatesMod"
+		],
+		"fabric-datagen": [
+			"net.kiril.advancedupgradetemplates.AdvancedUpgradeTemplatesModDataGenerator"
+		],
+		"client": [
+			 "net.kiril.advancedupgradetemplates.AdvancedUpgradeTemplatesModClient"
+		]
+	},
+	"mixins": [
+		"advancedupgradetemplatesmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.13",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
