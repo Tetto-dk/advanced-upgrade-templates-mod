@@ -3,5 +3,9 @@
   "item.advancedupgradetemplatesmod.gilded_blackstone_rock": "Gilded Blackstone Rock",
   "item.advancedupgradetemplatesmod.template_base": "Template Base",
   "item.advancedupgradetemplatesmod.smelted_template_base": "Smelted Template Base",
-  "item.advancedupgradetemplatesmod.clump_of_gilded_blackstone_rocks": "Clump of Gilded Blackstone Rocks"
+  "item.advancedupgradetemplatesmod.clump_of_gilded_blackstone_rocks": "Clump of Gilded Blackstone Rocks",
+  "item.advancedupgradetemplatesmod.netherite_diamond_upgrade_smithing_template": "Netherite Diamond Upgrade Smithing Template",
+  "item.advancedupgradetemplatesmod.netherite_emerald_upgrade_smithing_template": "Netherite Emerald Upgrade Smithing Template",
+  "item.advancedupgradetemplatesmod.netherite_gold_upgrade_smithing_template": "Netherite Gold Upgrade Smithing Template",
+  "item.advancedupgradetemplatesmod.netherite_iron_upgrade_smithing_template": "Netherite Iron Upgrade Smithing Template"
 }

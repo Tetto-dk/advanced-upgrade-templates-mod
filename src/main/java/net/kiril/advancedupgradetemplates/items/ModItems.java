@@ -19,6 +19,10 @@ public class ModItems {
     public static final Item TEMPLATE_BASE = registerItem("template_base", Item::new, new Item.Settings());
     public static final Item SMELTED_TEMPLATE_BASE = registerItem("smelted_template_base", Item::new, new Item.Settings());
     public static final Item CLUMP_GILDED_BLACKSTONE_ROCKS = registerItem("clump_of_gilded_blackstone_rocks", Item::new, new Item.Settings());
+    public static final Item NETHERITE_DIAMOND_UPGRADE_SMITHING_TEMPLATE = registerItem("netherite_diamond_upgrade_smithing_template", Item::new, new Item.Settings());
+    public static final Item NETHERITE_EMERALD_UPGRADE_SMITHING_TEMPLATE = registerItem("netherite_emerald_upgrade_smithing_template", Item::new, new Item.Settings());
+    public static final Item NETHERITE_GOLD_UPGRADE_SMITHING_TEMPLATE = registerItem("netherite_gold_upgrade_smithing_template", Item::new, new Item.Settings());
+    public static final Item NETHERITE_IRON_UPGRADE_SMITHING_TEMPLATE = registerItem("netherite_iron_upgrade_smithing_template", Item::new, new Item.Settings());
 
     public static Item registerItem(String name, Function<Item.Settings, Item> factory, Item.Settings settings) {
         final RegistryKey<Item> registerKey = RegistryKey.of(RegistryKeys.ITEM, Identifier.of(AdvancedUpgradeTemplatesMod.MOD_ID, name));
@@ -32,6 +36,10 @@ public class ModItems {
         entries.add(TEMPLATE_BASE);
         entries.add(SMELTED_TEMPLATE_BASE);
         entries.add(CLUMP_GILDED_BLACKSTONE_ROCKS);
+        entries.add(NETHERITE_DIAMOND_UPGRADE_SMITHING_TEMPLATE);
+        entries.add(NETHERITE_EMERALD_UPGRADE_SMITHING_TEMPLATE);
+        entries.add(NETHERITE_GOLD_UPGRADE_SMITHING_TEMPLATE);
+        entries.add(NETHERITE_IRON_UPGRADE_SMITHING_TEMPLATE);
     }
 
     public static void registerModItems() {
