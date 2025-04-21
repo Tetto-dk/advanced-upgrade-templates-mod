@@ -1,8 +1,9 @@
-package net.kiril.advancedupgradetemplates;
+package net.tetto.advancedupgradetemplates;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.kiril.advancedupgradetemplates.items.ModItems;
+import net.tetto.advancedupgradetemplates.items.ModItems;
+import net.tetto.advancedupgradetemplates.items.custom.ModItemsGroup;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,6 +13,8 @@ public class AdvancedUpgradeTemplatesMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemsGroup.registerItemGroups();
+
 		ModItems.registerModItems();
 	}
 }

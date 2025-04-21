@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": "advancedupgradetemplatesmod:netherite_iron_upgrade_smithing_template",
+    "base": "minecraft:netherite_pickaxe",
+    "addition": "advancednetherite:netherite_iron_ingot",
+    "result": {
+        "id": "advancednetherite:netherite_iron_pickaxe"
+    }
+}

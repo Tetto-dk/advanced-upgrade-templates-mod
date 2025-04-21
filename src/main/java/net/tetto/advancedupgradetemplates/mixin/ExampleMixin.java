@@ -1,4 +1,4 @@
-package net.kiril.advancedupgradetemplates.mixin;
+package net.tetto.advancedupgradetemplates.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

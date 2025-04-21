@@ -1,4 +1,4 @@
-package net.kiril.advancedupgradetemplates;
+package net.tetto.advancedupgradetemplates;
 
 import net.fabricmc.api.ClientModInitializer;
 

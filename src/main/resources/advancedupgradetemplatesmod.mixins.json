@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.kiril.advancedupgradetemplates.mixin",
+	"package": "net.tetto.advancedupgradetemplates.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"
