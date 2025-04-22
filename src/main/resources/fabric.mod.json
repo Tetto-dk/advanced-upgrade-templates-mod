@@ -5,7 +5,7 @@
 	"name": "AdvancedUpgradeTemplatesMod",
 	"description": "Make it a bit more difficult to get advanced netherite.",
 	"authors": [
-		"Kiril"
+		"Tetto"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.kiril.advancedupgradetemplates.AdvancedUpgradeTemplatesMod"
+			"net.tetto.advancedupgradetemplates.AdvancedUpgradeTemplatesMod"
 		],
 		"fabric-datagen": [
-			"net.kiril.advancedupgradetemplates.AdvancedUpgradeTemplatesModDataGenerator"
+			"net.tetto.advancedupgradetemplates.AdvancedUpgradeTemplatesModDataGenerator"
 		],
 		"client": [
-			 "net.kiril.advancedupgradetemplates.AdvancedUpgradeTemplatesModClient"
+			 "net.tetto.advancedupgradetemplates.AdvancedUpgradeTemplatesModClient"
 		]
 	},
 	"mixins": [

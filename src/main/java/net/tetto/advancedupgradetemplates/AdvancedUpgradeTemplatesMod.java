@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.tetto.advancedupgradetemplates.items.ModItems;
 import net.tetto.advancedupgradetemplates.items.custom.ModItemsGroup;
+import net.tetto.advancedupgradetemplates.util.ModLootTableModifiers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -16,5 +17,7 @@ public class AdvancedUpgradeTemplatesMod implements ModInitializer {
 		ModItemsGroup.registerItemGroups();
 
 		ModItems.registerModItems();
+
+		ModLootTableModifiers.modifyLootTables();
 	}
 }

@@ -24,6 +24,8 @@ public class ModItems {
     public static final Item NETHERITE_GOLD_UPGRADE_SMITHING_TEMPLATE = registerItem("netherite_gold_upgrade_smithing_template", Item::new, new Item.Settings());
     public static final Item NETHERITE_IRON_UPGRADE_SMITHING_TEMPLATE = registerItem("netherite_iron_upgrade_smithing_template", Item::new, new Item.Settings());
 
+    
+
     public static Item registerItem(String name, Function<Item.Settings, Item> factory, Item.Settings settings) {
         final RegistryKey<Item> registerKey = RegistryKey.of(RegistryKeys.ITEM, Identifier.of(AdvancedUpgradeTemplatesMod.MOD_ID, name));
         return Items.register(registerKey, factory, settings);
