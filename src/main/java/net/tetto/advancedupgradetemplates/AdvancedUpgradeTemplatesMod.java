@@ -17,12 +17,12 @@ public class AdvancedUpgradeTemplatesMod implements ModInitializer {
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 
+
 	@Override
 	public void onInitialize() {
 		ModItemsGroup.registerItemGroups();
 
 		ModItems.registerModItems();
-
 
 		ModLootTableModifiers.modifyLootTables();
 

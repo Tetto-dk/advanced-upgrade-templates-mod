@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": "advancedupgradetemplatesmod:smelted_template_base"
+  },
+  "result": {
+    "id": "advancedupgradetemplatesmod:template_base",
+    "count": 1
+  }
+}

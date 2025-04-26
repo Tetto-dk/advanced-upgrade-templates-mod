@@ -13,12 +13,8 @@ import net.minecraft.loot.provider.number.UniformLootNumberProvider;
 
 public class ModLootTableModifiers {
 
-
     public static void modifyLootTables() {
         LootTableEvents.MODIFY.register((key, tableBuilder, source, registry) -> {
-
-
-
 
         if(LootTables.BASTION_TREASURE_CHEST.equals(key)) {
             LootPool.Builder poolBuilder = LootPool.builder()
