@@ -2,6 +2,7 @@ package net.tetto.advancedupgradetemplates.items.custom;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.tetto.advancedupgradetemplates.AdvancedUpgradeTemplatesMod;
+
 import net.tetto.advancedupgradetemplates.items.ModItems;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -25,6 +26,7 @@ public class ModItemsGroup {
                         entries.add(ModItems.NETHERITE_EMERALD_UPGRADE_SMITHING_TEMPLATE);
                         entries.add(ModItems.NETHERITE_GOLD_UPGRADE_SMITHING_TEMPLATE);
                         entries.add(ModItems.NETHERITE_IRON_UPGRADE_SMITHING_TEMPLATE);
+
 
                     }).build());
 

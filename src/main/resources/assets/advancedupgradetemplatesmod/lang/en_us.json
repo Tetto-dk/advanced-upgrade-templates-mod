@@ -9,5 +9,33 @@
   "item.advancedupgradetemplatesmod.netherite_gold_upgrade_smithing_template": "Netherite-Gold Upgrade",
   "item.advancedupgradetemplatesmod.netherite_iron_upgrade_smithing_template": "Netherite-Iron Upgrade",
 
+  "item.advancedupgradetemplatesmod.blank_line": "",
+
+  "item.advancedupgradetemplatesmod.netherite_iron_upgrade_smithing_template.tooltip": "§7Smithing Template§r",
+  "item.advancedupgradetemplatesmod.netherite_iron_upgrade_smithing_template.applies_to": "§7Applies to:§r",
+  "item.advancedupgradetemplatesmod.netherite_iron_upgrade_smithing_template.armor_type": " §9Netherite Equipment§r",
+  "item.advancedupgradetemplatesmod.netherite_iron_upgrade_smithing_template.ingredients": "§7Ingredients:§r",
+  "item.advancedupgradetemplatesmod.netherite_iron_upgrade_smithing_template.ingredient": " §9Netherite-Iron Ingot§r",
+
+  "item.advancedupgradetemplatesmod.netherite_gold_upgrade_smithing_template.tooltip": "§7Smithing Template§r",
+  "item.advancedupgradetemplatesmod.netherite_gold_upgrade_smithing_template.applies_to": "§7Applies to:§r",
+  "item.advancedupgradetemplatesmod.netherite_gold_upgrade_smithing_template.armor_type": " §9Netherite-Iron Equipment§r",
+  "item.advancedupgradetemplatesmod.netherite_gold_upgrade_smithing_template.ingredients": "§7Ingredients:§r",
+  "item.advancedupgradetemplatesmod.netherite_gold_upgrade_smithing_template.ingredient": " §9Netherite-Gold Ingot§r",
+
+  "item.advancedupgradetemplatesmod.netherite_emerald_upgrade_smithing_template.tooltip": "§7Smithing Template§r",
+  "item.advancedupgradetemplatesmod.netherite_emerald_upgrade_smithing_template.applies_to": "§7Applies to:§r",
+  "item.advancedupgradetemplatesmod.netherite_emerald_upgrade_smithing_template.armor_type": " §9Netherite-Gold Equipment§r",
+  "item.advancedupgradetemplatesmod.netherite_emerald_upgrade_smithing_template.ingredients": "§7Ingredients:§r",
+  "item.advancedupgradetemplatesmod.netherite_emerald_upgrade_smithing_template.ingredient": " §9Netherite-Emerald Ingot§r",
+
+  "item.advancedupgradetemplatesmod.netherite_diamond_upgrade_smithing_template.tooltip": "§7Smithing Template§r",
+  "item.advancedupgradetemplatesmod.netherite_diamond_upgrade_smithing_template.applies_to": "§7Applies to:§r",
+  "item.advancedupgradetemplatesmod.netherite_diamond_upgrade_smithing_template.armor_type": " §9Netherite-Emerald Equipment§r",
+  "item.advancedupgradetemplatesmod.netherite_diamond_upgrade_smithing_template.ingredients": "§7Ingredients:§r",
+  "item.advancedupgradetemplatesmod.netherite_diamond_upgrade_smithing_template.ingredient": " §9Netherite-Diamond Ingot§r",
+
   "itemgroup.advancedupgradetemplates.advanced_upgrade_templates_items": "Advanced Upgrade Templates"
+
+
 }
