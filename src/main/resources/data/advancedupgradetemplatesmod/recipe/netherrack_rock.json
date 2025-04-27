@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": "minecraft:netherrack"
+  },
+  "result": {
+    "id": "advancedupgradetemplatesmod:netherrack_rock",
+    "count": 9
+  }
+}
