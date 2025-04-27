@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "#advancednetherite:upgrade_to_netherite_gold",
+  "base": "#advancednetherite:hoe/upgrade_to_netherite_gold",
+  "result": {
+    "count": 1,
+    "id": "advancednetherite:netherite_gold_hoe"
+  },
+  "template": "advancedupgradetemplatesmod:netherite_gold_upgrade_smithing_template"
+}
