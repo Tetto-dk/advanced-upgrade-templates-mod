@@ -8,8 +8,8 @@
 		"Tetto"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Tetto-dk",
+		"sources": "https://github.com/Tetto-dk/advanced-upgrade-templates-mod-1.21.4"
 	},
 	"license": "MIT",
 	"icon": "assets/advancedupgradetemplatesmod/icon.png",
