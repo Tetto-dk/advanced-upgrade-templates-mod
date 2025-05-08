@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "advancedupgradetemplatesmod",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "AdvancedUpgradeTemplatesMod",
 	"description": "Make it a bit more difficult to get advanced netherite.",
 	"authors": [
