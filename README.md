@@ -22,6 +22,7 @@
  [Note](https://github.com/Tetto-dk/advanced-upgrade-templates-mod?tab=readme-ov-file#note)
  
 </details>
+
 ## Description
 This mod adds new upgrade templates for the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod, making it more difficult to obtain the higher tiers of Netherite.
 ## Items
