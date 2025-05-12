@@ -3,7 +3,7 @@
 This mod adds new upgrade templates for the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod, making it more difficult to obtain the higher tiers of Netherite.
 ## Items
 
-**Items added**
+### Items added
 
 Netherrack Rock
 
@@ -26,47 +26,47 @@ Netherite-Diamond Upgrade Template
 
 
 
-**Obtaining**
+### Obtaining
 
-### Netherrack Rock:
+**Netherrack Rock**
  
 Crafting: 1 Netherrack = 9 Netherrack Rocks
 
-### Gilded Blackstone Rock
+**Gilded Blackstone Rock**
 
 Crafting: 1 Gilded Blackstone = 9 Gilded Blackstone Rock
 
-### Clump of Gilded Blackstone Rocks
+**Clump of Gilded Blackstone Rocks**
  
 Crafting: 6 Gilded Blackstone Rocks = 1 Clump of Gilded Blackstone Rocks
 
-### Smelted Template Base
+**Smelted Template Base**
 
 Blasting: 1 Clump of Gilded Blackstone Rocks = 1 Smelted Template Base
 
-### Template Base
+**Template Base**
 
 Crafting: 1 Smelted Template Base = 1 Template Base
 
-### Netherite-Iron Upgrade Template
+***Netherite-Iron Upgrade Template**
 
 Spawning: 75% Chance in BASTION_TREASURE loot table (Same chest as the one with 100% chance of netherite upgrade spawn)
 
 Duplicating: 1 Netherite-Iron Upgrade Template + 1 Iron Ingot + 1 Template Base = 2 Netherite-Iron Upgrade Template
 
-### Netherite-Gold Upgrade Template
+**Netherite-Gold Upgrade Template**
 
 Spawning: 50% Chance in BASTION_TREASURE loot table (Same chest as the one with 100% chance of netherite upgrade spawn)
 
 Duplicating: 1 Netherite-Gold Upgrade Template + 1 Gold Ingot + 1 Template Base = 2 Netherite-Gold Upgrade Template
 
-### Netherite-Emerald Upgrade Template
+**Netherite-Emerald Upgrade Template**
 
 Spawning: 25% Chance in BASTION_TREASURE loot table (Same chest as the one with 100% chance of netherite upgrade spawn)
 
 Duplicating: 1 Netherite-Emerald Upgrade Template + 1 Emerald + 1 Template Base = 2 Netherite-Emerald Upgrade Template
 
-### Netherite-Diamond Upgrade Template
+**Netherite-Diamond Upgrade Template**
 
 Spawning: 12.5% Chance in BASTION_TREASURE loot table (Same chest as the one with 100% chance of netherite upgrade spawn)
 
