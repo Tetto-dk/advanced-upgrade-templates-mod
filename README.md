@@ -3,7 +3,7 @@
 > This mod adds new upgrade templates for the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod, making it more difficult to obtain the higher tiers of Netherite.
 ## Items
 <details>
-<summary> **Items added** </summary>
+<summary>Items added</summary>
 
 Netherrack Rock
 
