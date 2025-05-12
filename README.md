@@ -2,6 +2,8 @@
 
 <details>
  <summary>Content</summary>
+
+
  
  [Title](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#advanced-netherite-upgrade-templates)
 
