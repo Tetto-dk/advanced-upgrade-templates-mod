@@ -2,8 +2,8 @@
 ## Description
 This mod adds new upgrade templates for the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod, making it more difficult to obtain the higher tiers of Netherite.
 ## Items
-<details>
-<summary>Items added</summary>
+
+**Items added**
 
 Netherrack Rock
 
@@ -23,11 +23,10 @@ Netherite-Emerald Upgrade Template
 
 Netherite-Diamond Upgrade Template
 
-</details>
 
 
-<details>
-<summary>Obtaining</summary>
+
+**Obtaining**
 
 ### Netherrack Rock:
  
@@ -73,7 +72,6 @@ Spawning: 12.5% Chance in BASTION_TREASURE loot table (Same chest as the one wit
 
 Duplicating: 1 Netherite-Diamond Upgrade Template + 1 Diamond + 1 Template Base = 2 Netherite-Diamond Upgrade Template
 
-</details>
 
 ## Compatible Versions
 [1.21.3-1.21.4](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.4)
