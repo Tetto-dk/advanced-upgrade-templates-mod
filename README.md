@@ -1,9 +1,7 @@
 # Advanced Netherite Upgrade Templates
 
-### Content
-
-<details>
- <summary></summary>
+### Content 
+<details> <summary></summary>
   
   
   
