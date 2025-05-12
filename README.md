@@ -1,4 +1,24 @@
 # Advanced Netherite Upgrade Templates
+
+<details>
+ <summary>Content</summary>
+ [Title](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#advanced-netherite-upgrade-templates)
+
+ [Description](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#description)
+
+ [Items](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#items)
+
+ [Items Added](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#items-added)
+
+ [Obtaining](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#obtaining)
+
+ [Compatible Versions](https://github.com/Tetto-dk/advanced-upgrade-templates-mod?tab=readme-ov-file#compatible-versions)
+
+ [Installing](https://github.com/Tetto-dk/advanced-upgrade-templates-mod?tab=readme-ov-file#installing)
+
+ [Note](https://github.com/Tetto-dk/advanced-upgrade-templates-mod?tab=readme-ov-file#note)
+ 
+</details>
 ## Description
 This mod adds new upgrade templates for the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod, making it more difficult to obtain the higher tiers of Netherite.
 ## Items
@@ -48,7 +68,7 @@ Blasting: 1 Clump of Gilded Blackstone Rocks = 1 Smelted Template Base
 
 Crafting: 1 Smelted Template Base = 1 Template Base
 
-***Netherite-Iron Upgrade Template**
+**Netherite-Iron Upgrade Template**
 
 Spawning: 75% Chance in BASTION_TREASURE loot table (Same chest as the one with 100% chance of netherite upgrade spawn)
 
