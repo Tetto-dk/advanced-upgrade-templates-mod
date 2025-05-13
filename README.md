@@ -108,19 +108,9 @@ Download on [Modrinth](https://modrinth.com/mod/advanced-netherite-upgrade-templ
 ![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
 
 ### Installing
- In the address bar in file explorer type "%appdata%".
+To install the mod follow [this tutorial](https://wiki.fabricmc.net/player:tutorials:adding_mods).
 
-Find your Minecraft directory. Normally this is ".minecraft".
-
- In the Minecraft directory find a folder named "mods".
- 
- If you don't have this folder you need to set up fabric.
- 
- Move your mod to the "mods" folder.
- 
- Now run the game!
-
-**If you haven't set up fabric, then follow [this tutorial](https://wiki.fabricmc.net/install).**
+If you haven't set up fabric, then follow [this tutorial](https://wiki.fabricmc.net/install).
 ![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
 
 
