@@ -21,7 +21,11 @@
 
 ## Description
 This mod adds new upgrade templates for the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod, making it more difficult to obtain the higher tiers of Netherite.
-## Items
+
+
+![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
+
+### Items
 
 ### Items added
 
@@ -42,7 +46,7 @@ Netherite-Gold Upgrade Template
 Netherite-Emerald Upgrade Template
 
 Netherite-Diamond Upgrade Template
-
+![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
 
 
 
@@ -93,12 +97,15 @@ Spawning: 12.5% Chance in BASTION_TREASURE loot table (Same chest as the one wit
 Duplicating: 1 Netherite-Diamond Upgrade Template + 1 Diamond + 1 Template Base = 2 Netherite-Diamond Upgrade Template
 
 
-## Compatible Versions
+![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
+
+### Compatible Versions
 [1.21.3-1.21.4](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.4)
 
 [1.21.5](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.4) (No tooltips)
+![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
 
-## Installing
+### Installing
  In the address bar in file explorer type "%appdata%".
 
 Find your Minecraft directory. Normally this is ".minecraft".
@@ -112,11 +119,13 @@ Find your Minecraft directory. Normally this is ".minecraft".
  Now run the game!
 
 **If you haven't set up fabric, then follow [this tutorial](https://wiki.fabricmc.net/install).**
+![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
 
 
-## Note:
+### Note:
   **The [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod is not made by me so give credit to [Autovw](https://modrinth.com/user/Autovw) for making a good mod!** 
 
  This mod needs the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod.
+ ![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
  
  This is my first mod so it may be buggy but feel free to report issues.
