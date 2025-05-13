@@ -128,6 +128,8 @@ Find your Minecraft directory. Normally this is ".minecraft".
   **The [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod is not made by me so give credit to [Autovw](https://modrinth.com/user/Autovw) for making a good mod!** 
 
  This mod needs the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod.
- ![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
+
  
  This is my first mod so it may be buggy but feel free to report issues.
+
+ ![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
