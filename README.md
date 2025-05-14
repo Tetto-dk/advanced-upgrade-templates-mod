@@ -5,8 +5,6 @@
 
  [Description](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#description)
 
- [Items](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#items)
-
  [Items Added](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#items-added)
 
  [Obtaining](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#obtaining)
