@@ -105,6 +105,7 @@ Duplicating: 1 Netherite-Diamond Upgrade Template + 1 Diamond + 1 Template Base 
 [1.21.5](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.5)
 
 [![Download on Modrinth](https://cdn.modrinth.com/data/cached_images/bbc247cf41ab3d9f33ab6db5f11b89a7582d32ab.png)](https://modrinth.com/mod/advanced-netherite-upgrade-templates)
+![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
 
 ### Installing
 To install the mod follow [this tutorial](https://wiki.fabricmc.net/player:tutorials:adding_mods).
