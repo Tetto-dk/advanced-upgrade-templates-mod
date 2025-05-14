@@ -25,7 +25,6 @@ This mod adds new upgrade templates for the [Advanced Netherite](https://modrint
 
 ![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
 
-### Items
 
 ### Items added
 
