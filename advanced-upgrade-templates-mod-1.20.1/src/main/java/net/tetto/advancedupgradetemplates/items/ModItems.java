@@ -95,6 +95,8 @@ public class ModItems {
 
 
     public static void registerModItems() {
+        AdvancedUpgradeTemplatesMod.LOGGER.info("Registering Mod Items for " + AdvancedUpgradeTemplatesMod.MOD_ID);
+
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientTabItemGroup);
     }
 
