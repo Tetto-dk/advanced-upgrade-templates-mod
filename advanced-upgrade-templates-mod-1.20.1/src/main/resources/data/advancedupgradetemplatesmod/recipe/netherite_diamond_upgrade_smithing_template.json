@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N",
+    "L",
+    "#"
+  ],
+  "key": {
+    "#": "advancedupgradetemplatesmod:template_base",
+    "N": "advancedupgradetemplatesmod:netherite_diamond_upgrade_smithing_template",
+    "L": "minecraft:diamond"
+  },
+  "result": {
+    "id": "advancedupgradetemplatesmod:netherite_diamond_upgrade_smithing_template",
+    "count": 2
+  }
+}
