@@ -77,15 +77,7 @@ public class ModItems {
 
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
-        entries.add(NETHERRACK_ROCK);
-        entries.add(GILDED_BLACKSTONE_ROCK);
-        entries.add(TEMPLATE_BASE);
-        entries.add(SMELTED_TEMPLATE_BASE);
-        entries.add(CLUMP_GILDED_BLACKSTONE_ROCKS);
-        entries.add(NETHERITE_DIAMOND_UPGRADE_SMITHING_TEMPLATE);
-        entries.add(NETHERITE_EMERALD_UPGRADE_SMITHING_TEMPLATE);
-        entries.add(NETHERITE_GOLD_UPGRADE_SMITHING_TEMPLATE);
-        entries.add(NETHERITE_IRON_UPGRADE_SMITHING_TEMPLATE);
+       
     }
 
 

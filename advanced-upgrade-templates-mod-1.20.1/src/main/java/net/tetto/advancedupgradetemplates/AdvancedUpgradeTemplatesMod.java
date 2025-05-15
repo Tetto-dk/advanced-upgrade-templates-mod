@@ -6,6 +6,7 @@ import net.tetto.advancedupgradetemplates.items.ModItems;
 import net.tetto.advancedupgradetemplates.util.ModLootTableModifiers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import net.tetto.advancedupgradetemplates.items.custom.ModItemsGroup;
 
 public class AdvancedUpgradeTemplatesMod implements ModInitializer {
 	public static final String MOD_ID = "advancedupgradetemplatesmod";
@@ -13,6 +14,7 @@ public class AdvancedUpgradeTemplatesMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemsGroup.registerItemGroups();
 
 		ModItems.registerModItems();
 
