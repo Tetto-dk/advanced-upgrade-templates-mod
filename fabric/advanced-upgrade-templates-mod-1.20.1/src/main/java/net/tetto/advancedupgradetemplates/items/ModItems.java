@@ -77,7 +77,7 @@ public class ModItems {
 
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
-       
+
     }
 
 
