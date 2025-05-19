@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "advancedupgradetemplatesmod:item/clump_of_gilded_blackstone_rocks"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N",
+    "L",
+    "#"
+  ],
+  "key": {
+    "#": "advancedupgradetemplatesmod:template_base",
+    "N": "advancedupgradetemplatesmod:netherite_iron_upgrade_smithing_template",
+    "L": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "advancedupgradetemplatesmod:netherite_iron_upgrade_smithing_template",
+    "count": 2
+  }
+}
