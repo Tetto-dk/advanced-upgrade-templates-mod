@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
 	"id": "advancedupgradetemplatesmod",
-	"version": "1.0.1 [Fabric 1.21.2-1.21.4]",
+	"version": "1.1.0",
 	"name": "Advanced Upgrade Templates Mod",
 	"description": "Make it a bit more difficult to get advanced netherite.",
 	"authors": [
-		"Tetto"
+		"Tetto-dk"
 	],
 	"contact": {
 		"homepage": "https://github.com/Tetto-dk",
