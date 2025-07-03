@@ -104,6 +104,14 @@ Duplicating: 1 Netherite-Diamond Upgrade Template + 1 Diamond + 1 Template Base 
 | [1.21.2-1.21.4](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.4) |
 | [1.21.5-1.21.7](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.5) |
 
+
+###  Versions
+
+|Release|Changelog
+|-----|-----|
+|[1.0.1](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/releases/tag/v.1.0.1)|[1.0.1](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/blob/master/CHANGELOG.md#initial-upload-101)|
+|[1.1.0](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/releases/tag/v.1.1.0)|[1.1.0](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/blob/master/CHANGELOG.md#update-110)|
+
 [Download on Modrinth!](https://modrinth.com/mod/advanced-netherite-upgrade-templates)
 ![Line](https://cdn.modrinth.com/data/cached_images/3659f7c977872cc1ec9f9f27d0c1ba9d4ee6c542.png)
 
