@@ -14,4 +14,4 @@ Initial Upload
 
 ### Compatible Version of Minecraft ###
 `1.20-1.20.4`
-`1.21.X`
+`1.21-1.21.7`
