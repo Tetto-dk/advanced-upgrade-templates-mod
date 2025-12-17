@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": "minecraft:gilded_blackstone"
+  },
+  "result": {
+    "id": "advancedupgradetemplatesmod:gilded_blackstone_rock",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N",
+    "L",
+    "#"
+  ],
+  "key": {
+    "#": "advancedupgradetemplatesmod:template_base",
+    "N": "minecraft:netherite_upgrade_smithing_template",
+    "L": "advancedupgradetemplatesmod:netherrack_rock"
+  },
+  "result": {
+    "id": "minecraft:netherite_upgrade_smithing_template",
+    "count": 2
+  }
+}
