@@ -123,7 +123,7 @@ If you haven't set up fabric, then follow [this tutorial](https://wiki.fabricmc.
 
 
 ### Note:
-  **The [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod is not made by me so give credit to [Autovw](https://modrinth.com/user/Autovw) for making a good mod!** 
+  **Credit to [Autovw](https://modrinth.com/user/Autovw) for making [Advanced Netherite](https://modrinth.com/mod/advanced-netherite)** 
 
  This mod needs the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod.
 
