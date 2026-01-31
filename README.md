@@ -99,7 +99,6 @@ Duplicating: 1 Netherite-Diamond Upgrade Template + 1 Diamond + 1 Template Base 
 ### Compatible Versions
 | Fabric |
 |--------|
-| [1.20-1.20.4](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.20.1) |
 |[1.21-1.21.1](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.1)|
 | [1.21.2-1.21.4](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.4) |
 | [1.21.5-1.21.7](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.5) |
