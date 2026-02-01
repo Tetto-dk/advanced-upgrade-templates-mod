@@ -1,17 +1,12 @@
 # Initial Upload 1.0.1 #
-Initial Upload
 
-### Compatible Version of Minecraft ###
-
-`1.20-1.20.4`
-`1.21-1.21.5`
-
+- Initial upload
 
 # Update 1.1.0 #
 
-- Fixed Error in `fabric.mod.json` with the Version
-- Added Compatibility with Version 1.21.6 and 1.21.7 of Minecraft
+- Fixed error in `fabric.mod.json` with the version
+  
+# Update 1.2.0 #
 
-### Compatible Version of Minecraft ###
-`1.20-1.20.4`
-`1.21-1.21.7`
+- Fixed broken recipes
+- Removed error with tooltip for `1.21.5+` (tooltips doesn't work)

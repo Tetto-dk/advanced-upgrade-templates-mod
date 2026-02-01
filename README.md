@@ -1,21 +1,5 @@
 # Advanced Netherite Upgrade Templates
 
-<details> 
-  <summary>Content</summary>
-
- [Description](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#description)
-
- [Items Added](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#items-added)
-
- [Obtaining](https://github.com/Tetto-dk/advanced-upgrade-templates-mod#obtaining)
-
- [Compatible Versions](https://github.com/Tetto-dk/advanced-upgrade-templates-mod?tab=readme-ov-file#compatible-versions)
-
- [Installing](https://github.com/Tetto-dk/advanced-upgrade-templates-mod?tab=readme-ov-file#installing)
-
- [Note](https://github.com/Tetto-dk/advanced-upgrade-templates-mod?tab=readme-ov-file#note)
- 
-</details>
 
 ## Description
 This mod adds new upgrade templates for the [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) mod, making it more difficult to obtain the higher tiers of Netherite.
@@ -99,9 +83,14 @@ Duplicating: 1 Netherite-Diamond Upgrade Template + 1 Diamond + 1 Template Base 
 ### Compatible Versions
 | Fabric |
 |--------|
-|[1.21-1.21.1](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.1)|
-| [1.21.2-1.21.4](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.4) |
-| [1.21.5-1.21.7](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/advanced-upgrade-templates-mod-1.21.5) |
+|[1.21](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21)|
+|[1.21.1](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.1)|
+|[1.21.3](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.3)|
+|[1.21.4](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.4)|
+|[1.21.5](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.5)|
+|[1.21.6](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.6)|
+|[1.21.7](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.7)|
+|[1.21.8](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/tree/master/fabric/advanced-upgrade-templates-mod-1.21.8)|
 
 
 ###  Versions
@@ -110,6 +99,7 @@ Duplicating: 1 Netherite-Diamond Upgrade Template + 1 Diamond + 1 Template Base 
 |----------|
 |[1.0.1](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/blob/master/CHANGELOG.md#initial-upload-101)|
 |[1.1.0](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/blob/master/CHANGELOG.md#update-110)|
+|[1.2.0](https://github.com/Tetto-dk/advanced-upgrade-templates-mod/blob/master/CHANGELOG.md#update-120)|
 
 
 [Download on Modrinth!](https://modrinth.com/mod/advanced-netherite-upgrade-templates)
